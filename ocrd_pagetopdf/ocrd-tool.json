@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "git_url": "https://github.com/UB-Mannheim/ocrd_pagetopdf",
   "dockerhub": "ocrd/pagetopdf",
   "tools": {

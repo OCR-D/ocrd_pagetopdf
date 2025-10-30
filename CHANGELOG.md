@@ -5,6 +5,11 @@ Versioned according to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+## [2.0.3] - 2025-10-30
+
+Fixed:
+
+  * `ocrd-tool.json`: make tools conform to schema, #32
 
 ## [2.0.2] - 2025-05-21
 
@@ -63,6 +68,9 @@ Whats changed:
 First official release
 
 <!-- link-labels -->
+[2.0.3]: ../../compare/v2.0.3...v2.0.2
+[2.0.2]: ../../compare/v2.0.2...v2.0.1
+[2.0.1]: ../../compare/v2.0.1...v2.0.0
 [2.0.0]: ../../compare/v2.0.0...v1.1.0
 [1.1.0]: ../../compare/v1.1.0...v1.0.0
 [1.0.0]: ../../compare/HEAD...v1.0.0

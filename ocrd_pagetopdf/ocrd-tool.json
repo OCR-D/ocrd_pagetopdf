@@ -10,7 +10,7 @@
         "Long-term preservation"
       ],
       "steps": [
-        "post-processing/format-conversion"
+        "postprocessing/format-conversion"
       ],
       "input_file_grp_cardinality": 1,
       "output_file_grp_cardinality": 1,
@@ -197,7 +197,7 @@
         "Long-term preservation"
       ],
       "steps": [
-        "post-processing/format-conversion"
+        "postprocessing/format-conversion"
       ],
       "input_file_grp_cardinality": 2,
       "output_file_grp_cardinality": 1,
